@@ -47,6 +47,6 @@ cd Artistic-Image-editor
 python app.py
 ```
 
-## Credits
+## Inspiration
 https://www.youtube.com/watch?v=yn3bWvQZIIo
 https://youtu.be/bgeZv_8j7ug?si=HPUrZggC15TFwtiE
